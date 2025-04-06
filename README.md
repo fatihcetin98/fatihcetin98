@@ -1,16 +1,28 @@
-## Hi there 👋
+### 👋 Merhaba, ben [İsmin]
 
-<!--
-**fatihcetin98/fatihcetin98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend geliştirme ile ilgileniyorum. Genellikle HTML, CSS, JavaScript ve React kullanarak kendi çapımda projeler geliştiriyorum. Öğrenmeye ve yeni şeyler denemeye açık biriyim.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Kullandığım Teknolojiler
+- HTML / CSS
+- JavaScript
+- React
+- Git & GitHub
+
+---
+
+#### 🛠️ Uğraştığım Şeyler
+- Kendi projelerimi geliştiriyorum
+- Farklı UI tasarımlarını kodlamaya çalışıyorum
+- Öğrendiklerimi pekiştirmek için küçük uygulamalar yapıyorum
+
+---
+
+#### 📫 Bana ulaşabileceğin yerler:
+- [LinkedIn profilin buraya](#)
+- [Portfolyo / Kişisel site varsa](#)
+
+---
+
+> "Küçük adımlarla ama istikrarlı şekilde ilerlemeye çalışıyorum. 🙃"
