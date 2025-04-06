@@ -21,6 +21,7 @@ Frontend geliştirme ile ilgileniyorum. Genellikle HTML, CSS, JavaScript ve Reac
 
 #### 📫 Bana ulaşabileceğin yerler:
 - [https://www.linkedin.com/in/fatihhcetinn/](#)
+- [fatihcetinn98@gmail.com](#)
 
 
 ---
