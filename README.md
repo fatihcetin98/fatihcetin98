@@ -1,4 +1,4 @@
-### 👋 Merhaba, ben [İsmin]
+### 👋 Merhaba, ben Fatih
 
 Frontend geliştirme ile ilgileniyorum. Genellikle HTML, CSS, JavaScript ve React kullanarak kendi çapımda projeler geliştiriyorum. Öğrenmeye ve yeni şeyler denemeye açık biriyim.
 
@@ -20,8 +20,8 @@ Frontend geliştirme ile ilgileniyorum. Genellikle HTML, CSS, JavaScript ve Reac
 ---
 
 #### 📫 Bana ulaşabileceğin yerler:
-- [LinkedIn profilin buraya](#)
-- [Portfolyo / Kişisel site varsa](#)
+- [LinkedIn profilin buraya]((https://www.linkedin.com/in/fatihhcetinn/))
+
 
 ---
 
